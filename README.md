@@ -13,4 +13,4 @@ A lightweight Bash script to play YouTube videos directly inside the **Kitty Ter
 Ensure the following packages are installed on your system:
 
 ```bash
-sudo apt update && sudo apt install -y kitty mpv python3-pip ffmpeg
+sudo apt update && sudo apt install -y kitty mpv python3-pip ffmpeg && sudo chmod +x yt-play.sh
